@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\item_container_received_message.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\item_container_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_signin.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_users.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\item_container_recent_conversion.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\item_container_recent_conversion.xml"
+    },
+    {
+        "merged": "com.example.mychatapp-mergeDebugResources-32:/layout/activity_sing_up.xml",
+        "source": "com.example.mychatapp-main-35:/layout/activity_sing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_sing_up.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_sing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\item_container_sent_message.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\item_container_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-mergeDebugResources-32:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\admin\\.gradle\\daemon\\7.5\\com.example.mychatapp-main-35:\\layout\\activity_chat.xml"
+    }
+]
